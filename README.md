@@ -5,6 +5,7 @@
 - 📫 How to reach me https://fb.com/khalid.hossain.akash
 - ⚡ I'm a quick Learner. 
 - 👨‍🔬 LinkedIn: https://www.linkedin.com/in/khalid-hossain-akash-969171177/
+- 👨‍💻 Certified Backend Developer - https://www.freecodecamp.org/certification/KhalidHossainAkash/back-end-development-and-apis
 <!---
 dev-khalid/dev-khalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
