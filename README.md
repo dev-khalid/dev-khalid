@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khalid Hossain Akash</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-
+- ⭐⭐⭐ 3 star - **Codechef** - [https://www.codechef.com/users/khalid_hossain](https://www.codechef.com/users/khalid_hossain)
+  
 - 🔭 Currently working on **Web Applications**
 
 - 🥇 Persuing **Computer Science and Engineering** Degree [Final Year] 
