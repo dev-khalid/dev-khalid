@@ -54,5 +54,4 @@
  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-khalid&" alt="dev-khalid" /></p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dev-khalid)    
+ 
