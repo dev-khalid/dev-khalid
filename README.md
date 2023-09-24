@@ -5,8 +5,6 @@
   
 - 🔭 Currently working on **Web Applications**
 
-- 🥇 Persuing **Computer Science and Engineering** Degree [Final Year] 
-
 - 🖥 Focuing on  **Web Applications Development** & **Problem solving skills**
 
 - 👨‍💻 Certified Backend Developer - [https://www.freecodecamp.org/certification/KhalidHossainAkash/back-end-development-and-apis](https://www.freecodecamp.org/certification/KhalidHossainAkash/back-end-development-and-apis)
@@ -48,9 +46,5 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Data Visualization :</h3>
-<p align="left"><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> </p>
-
- 
  
  
